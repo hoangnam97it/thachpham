@@ -1,0 +1,17 @@
+#tieu-de{
+    color: red;
+    font-weight: bold;
+}
+.tde{
+    color:blue;
+    font-family: Arial;
+    background-color: yellow;
+}
+#menu ul li{
+    color: white;
+    background-color: black;
+}
+#social ul ul >p{
+    background-color: yellow;
+    color:red;
+}
